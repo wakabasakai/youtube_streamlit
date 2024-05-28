@@ -40,7 +40,7 @@ expander.write('naiyou')
 #)
 #st.map(df)
 
-thanks.
+thanks...
  
 
 
