@@ -39,8 +39,6 @@ expander.write('naiyou')
 #    columns=['lat','lon']
 #)
 #st.map(df)
-
-thanks...
  
 
 
